@@ -20,7 +20,7 @@
 - Percentage : 83% <br>
 - Address : Kanchikacherla <br>
 
-** Intermediate **
+**Intermediate**
 
 - College Name :  _Chaitanya junior College_<br>
 - Branch : MPC <br>
@@ -52,6 +52,22 @@ I want to be a software engineer
 -Listening  music
 -Playing 
 
+**Strengths**
+
+-Hardwork
+-leadership quality
+-can work in a team
+-logical thinking
+
+**Weaknesses**
+
+-decision making
+
+**other works**
+
+-Few workshops
+-Working model
+-Courses
 
 
 
