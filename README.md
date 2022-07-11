@@ -32,7 +32,7 @@
 
 - School Name :  _Ravindra BHarathi School_<br>
 - Year Of study : 2016 <br>
-- Percentage : 9.5 CGPA<br>
+- Percentage : 90.25 %<br>
 - Address : Nandigama <br>
 
 **Skills**
